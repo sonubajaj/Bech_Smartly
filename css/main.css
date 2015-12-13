@@ -2553,6 +2553,11 @@ text-align: center;
   height: 427px;
    
 }
+#section-name
+{
+
+  
+}
 .text_line
 {
     color: #fff;
@@ -2560,11 +2565,24 @@ text-align: center;
   font-family: 'Raleway', sans-serif;
 }
 
+.section-class-name
+{
+  background: #23A38F;
+    padding: 50px 0;
+  height: 427px;
+}
+.banner
+{
+  
+    padding: 50px 0;
+  height: 790px;
+   
+}
 .who_are_we
 {
   background: #23A38F;
     padding: 50px 0;
-  height: 350px;
+  margin-top: 10px; 
    
   
 }
@@ -2572,7 +2590,6 @@ text-align: center;
 {
   background: #343938 ;
     padding: 50px 0;
-  height: 350px;
    
   
 }
@@ -2580,7 +2597,7 @@ text-align: center;
 {
   background: #F3F1F1;;
     padding: 50px 0;
-  height: 300px;
+  
 }
 
 .textarea_aria
@@ -2608,7 +2625,7 @@ height: 35px;
 
 .item
 {
-  height: 400px;  
+  height: 650px;  
 }
   
 
