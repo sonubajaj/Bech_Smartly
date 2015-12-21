@@ -561,7 +561,7 @@ input.search-form:hover {
 #feature {
   
     background: url(../images/bg_head.jpg) no-repeat center center;
-  padding: 2px 0;
+  padding: 0px 0;
   background-size: cover;
   display: block;
 
@@ -2581,7 +2581,7 @@ text-align: center;
 .who_are_we
 {
   background: #23A38F;
-    padding: 50px 0;
+   
 
    
   
